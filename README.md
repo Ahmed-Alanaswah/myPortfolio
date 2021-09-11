@@ -222,4 +222,4 @@ Finish time: 9/9/2021 9:00 pm
 
 Actual time needed to complete: 2 hour
 
-netlify deploy: https://lucid-noether-4fa4ce.netlify.app/
+netlify deploy: https://ahmed-alanaswah-portfolio.netlify.app/
